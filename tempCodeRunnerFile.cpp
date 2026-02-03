@@ -1,1 +1,0 @@
-srand((unsigned)time(NULL));
